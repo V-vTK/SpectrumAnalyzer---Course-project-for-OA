@@ -8,7 +8,8 @@ Some libraries used in this code:
   - Ikkunasto for the graphical ui
     - Matplolib imported trough ikkunasto for plotting the graph
   Ikkunasto was provided for us in the course assignment, and I had earlier experience with matplotlib.
-  Overall, this was definitely a fun and constructive project.
+  
+Overall, this was definitely a fun and constructive project.
 
   A small snippet of the UI.
 ![image](https://user-images.githubusercontent.com/97534406/210147824-75cabe80-5c77-4841-8529-4f6be1ca50be.png)
