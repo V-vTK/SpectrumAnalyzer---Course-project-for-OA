@@ -1,7 +1,7 @@
 # SpectrumAnalyzer---Course-project-for-OA
 
 This was my final project for the course - University of Oulu, ohjelmoinnin alkeet. In essence this app can analyse data gathered from electron spectroscopy. 
-I provided the simulated sample data in the repo and the guide under the 'help' button will help you with the usage.
+I provided the simulated sample data in the repo and the guide under the 'help' a guide for the usage.
 Some libraries used in this code:
   - OS for file directories
   - numpy for math 
